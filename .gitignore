@@ -1,10 +1,4 @@
 node_modules
-public/scripts
-public/styles
-public/assets
-*.scss
-node_modules
-public/scripts
-public/styles
-public/assets
-*.scss
+public/assets/scripts
+public/assets/styles/*.css
+public/assets/styles/*.map
