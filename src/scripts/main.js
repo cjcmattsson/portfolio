@@ -1,5 +1,5 @@
 import loading from './loading.js';
-import search from './search.js';
+import project from './project.js';
 
 const scroll = document.querySelector('.scroll');
 const name = document.querySelector('h1');
